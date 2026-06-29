@@ -6,7 +6,7 @@ Welcome to **Zenith**, a premium, high-performance, and beautifully designed web
 
 ## 🚀 Live Demo
 Experience the application live here:  
-👉 **[Zenith Live Preview]( https://siddharthsinha670.github.io/habit-tracker/)**
+👉 **[Zenith Live Preview]( https://siddharthsinha670.github.io/Zenith-habit-tracker/**
 
 ---
 
